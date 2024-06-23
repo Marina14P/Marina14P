@@ -2,7 +2,6 @@
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats"/>
 </p>
 
---- 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzE4ZmFhYjU3ZjUwMWFiMDU2M2Y4ZDQ4ZjI4NDkyZmMxMjEyNmU3ZiZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="200"/>
 </div>
