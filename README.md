@@ -25,8 +25,8 @@
 I'm studying to be a fullstack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and I live in Germany.
 
 - 🔭 I participate in a startup as a frontend developer.
-- 🌱 In my free time I like to spend outdoors and do active sports.
-- 🕹️ I am interested in computer games and like to play games of different genres.
+- 🌱 In my free time, I like to spend time outdoors and do active sports.
+- 🕹️ I am interested in computer games and enjoy playing games of different genres.
 - 📫 How to contact me: [![Telegram Badge](https://img.shields.io/badge/-MarinaP-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MarinaP014)
 
 ---
